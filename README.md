@@ -1,7 +1,7 @@
 **Author: Amit Das**
 
 
-# Automation Exercise - Selenium + TestNG + Maven (POM + PageFactory)
+## Automation Exercise - Selenium + TestNG + Maven (POM + PageFactory)
 
 This is a portfolio-ready web automation framework for the public demo site **Automation Exercise**:
 https://automationexercise.com/
