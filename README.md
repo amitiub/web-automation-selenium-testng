@@ -1,5 +1,6 @@
 **Author: Amit Das**
 
+This repository contains a **Web portal automation framework** built using **Selenium**, **Java**, **TestNG**, **Extent report**, and **Page Object Model (POM)**.
 
 ## Automation Exercise - Selenium + TestNG + Maven (POM + PageFactory)
 
