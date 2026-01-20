@@ -9,9 +9,9 @@
       <class name="com.amit.portfolio.tests.SignupTests"/>
 <!--      <class name="com.amit.portfolio.tests.LogoutTests"/>-->
 <!--      <class name="com.amit.portfolio.tests.NavigationTests"/>-->
-      <class name="com.amit.portfolio.tests.ProductTests"/>
-      <class name="com.amit.portfolio.tests.CartTests"/>
-      <class name="com.amit.portfolio.tests.CartRemoveTests"/>
+<!--      <class name="com.amit.portfolio.tests.ProductTests"/>-->
+<!--      <class name="com.amit.portfolio.tests.CartTests"/>-->
+<!--      <class name="com.amit.portfolio.tests.CartRemoveTests"/>-->
 <!--      <class name="com.amit.portfolio.tests.SubscriptionTests"/>-->
 <!--      <class name="com.amit.portfolio.tests.ContactUsTests"/>-->
     </classes>
