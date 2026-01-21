@@ -20,6 +20,22 @@ public class SignupLoginPage {
     @FindBy(xpath = "//button[text()='Signup']")
     WebElement signupBtn;
 
+    //Login
+    @FindBy(xpath = "//input[@data-qa='login-email']")
+    WebElement logEmail;
+
+    @FindBy(name = "password")
+    WebElement loginPass;
+
+    @FindBy(xpath = "//button[@data-qa='login-button']")
+    WebElement loginBtn;
+
+    public void signIn(String loginEmail, String password) {
+        logEmail.sendKeys(loginEmail);
+        loginPass.sendKeys(password);
+        loginBtn.click();
+    }
+
     public void signup(String uname, String mail) {
         name.sendKeys(uname);
         email.sendKeys(mail);

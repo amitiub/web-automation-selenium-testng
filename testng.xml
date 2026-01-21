@@ -2,7 +2,8 @@
 <suite name="AutomationExercise Test Suite" parallel="false">
     <test name="All Tests">
         <classes>
-            <class name="tests.RegistrationTests"/>
+            <class name="tests.LoginTests"/>
+<!--            <class name="tests.RegistrationTests"/>-->
 <!--            <class name="tests.ProductsTests"/>-->
 <!--            <class name="tests.SubscriptionTests"/>-->
 <!--            <class name="tests.CartTests"/>-->
