@@ -1,5 +1,6 @@
 package tests;
 
+import utils.AdHandler;
 import utils.DriverManager;
 
 import org.testng.Assert;
@@ -36,6 +37,7 @@ public class ProductsTests extends BaseTest {
         homePage.clickProducts();
 
         ProductsPage productsPage = new ProductsPage();
+        AdHandler.closeAdsIfPresent();
         productsPage.searchProduct("Dress");
 
         Assert.assertTrue(
