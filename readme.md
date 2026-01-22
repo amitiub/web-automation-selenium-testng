@@ -1,4 +1,12 @@
 # Automation Web Testing Framework (Selenium + TestNG)
+---
+
+## 👤 Author
+
+**Amit Kumar Das**  
+Senior Automation Consultant  
+
+---
 
 ## 📌 Project Overview
 This project is a **web automation testing framework** built using **Selenium WebDriver**, **TestNG**, and **Maven**, following the **Page Object Model (POM)** design pattern.
@@ -169,18 +177,11 @@ mvn clean test -DsuiteXmlFile=testng.xml
 
 ---
 
-## 👤 Author
-
-**Amit Kumar Das**  
-Senior Automation Consultant  
-
----
-
 ## 📜 License
 
 This project is intended for learning, POC, and demonstration purposes.
 
-## Test Report (ExtentReport)
+## 📄 Test Report (ExtentReport)
 <img width="1164" height="710" alt="image" src="https://github.com/user-attachments/assets/f9934a7c-3f07-4895-bc8a-046b7ea8551c" />
 
 
