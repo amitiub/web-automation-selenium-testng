@@ -51,6 +51,7 @@ automation-web-selenium-testng
             ├── tests
             │   ├── BaseTest.java
             │   ├── RegistrationTests.java
+            |   ├── LoginTests
             │   ├── ProductsTests.java
             │   ├── CartTests.java
             │   └── SubscriptionTests.java
