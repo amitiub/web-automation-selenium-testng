@@ -4,7 +4,7 @@
 ## 👤 Author
 
 **Amit Kumar Das**  
-Senior Automation Consultant  
+Automation Architect/Consultant  
 
 ---
 
